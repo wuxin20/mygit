@@ -3,12 +3,22 @@
 
 int main()
 {
+	puts("Hello word!\n");   //puts =output string
+	system("pause");
+	return 0;
+}
+
+
+/*
+int main()
+{
 	int x = 8, y = 10;
 	int a = x + y;
 	printf("x+y=%d\n", a);
-	system("spause");
+	system("pause");
 	return 0;
 }
+*/
 
 /*
 int* twoSum(int* nums, int numsSize, int target){
